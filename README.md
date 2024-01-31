@@ -1,5 +1,14 @@
 ### Hi there 👋
+Hello, I'm Tord Nilsen, currently serving as a Senior Advisor at Nasjonalmuseet with a focus on digital innovation and artificial intelligence (AI).
 
+My professional journey is a tapestry woven with strands of coding, design, and a profound understanding of human behavior, nurtured during my time as a personal assistant.
+
+I am deeply passionate about merging technology with empathy to transform the way we experience cultural heritage. At Nasjonalmuseet, 
+I lead initiatives that leverage AI to make our museum collections more accessible and engaging.
+
+I'm particularly involved in developing open APIs and creating digital experiences that are centered around the user.
+
+My role is not just about preserving our cultural legacy; it's about bringing it to life in the digital realm, ensuring that it resonates with and is accessible to everyone.
 <!--
 **tordnilsen/tordnilsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
